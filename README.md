@@ -1,4 +1,4 @@
-Puppet modules for LAMP environment.
+Puppet manifests for LAMP environment.
 
 
 Support
